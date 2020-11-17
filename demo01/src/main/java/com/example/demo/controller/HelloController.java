@@ -15,7 +15,7 @@ public class HelloController {
     @ResponseBody
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello Word---zhangkai";
+        return "Hello Word---zhangkai-成功10:50";
     }
 
     @RequestMapping("/success")
