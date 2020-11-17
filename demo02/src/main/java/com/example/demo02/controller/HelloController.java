@@ -15,6 +15,6 @@ public class HelloController {
     @ResponseBody
     @RequestMapping("/hello")
     public String hello() {
-        return "Jenkins测试成功！！！---zhangkai";
+        return "Jenkins测试成功！！！---zhangkai--------";
     }
 }
